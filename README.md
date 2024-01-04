@@ -1,4 +1,4 @@
-![image](https://github.com/jinjin2e/what_is_a_BLE-KOR-/assets/93366905/61ef7306-710b-4266-878d-0f6b7b06fd84)# BLE
+# BLE
 BLE, Bluetooth Low Energy 블루투스 4.0을 사용하는 저전력 디바이스를 말한다.  
 저전력 디바이스인 만큼 고속통신에 단점이 있음. 대신 Coin Cell 하나만으로 1년정도 동작 할 정도로 배터리 소모량이 적다.   
 ***
