@@ -21,22 +21,41 @@ BLE, Bluetooth Low Energy 블루투스 4.0을 사용하는 저전력 디바이�
 ***
 ## 스택 
 ![images_zhemdrawer_post_d2802fee-27b3-4abb-9003-47365ed4052b_BLE_Layer_model](https://github.com/jinjin2e/BLE/assets/93366905/f174f189-e532-4321-b6a4-758e93ca6afd)
-- Physical: 2.4 GHz ISM 대역에서 1 Mbps의 속도로 패킷 송수신 역할 (실제 Bluetooth Analog Signal과 통신할 수 있는 회로가 구성되어 있음)
 
-- LL (Link Layer): 5가지의 RF 상태 제어 (standby, advertising, scanning, initiating, connected) 및 디바이스의 Role 정의
 
-- HCI (Host Controller Interface): Host 영역과 Controller 영역의 Interface 역할
 
- 
-
-- L2CAP (Logical Link Control and Adaptation Protocol): 데이터 encapulation service 제공
-
-- SM (Security Manager): paring and key distributuiion 방법 정의 및 인증과 보안에 사용
-
-- ATT (Attribute Protocol): 다른 기기로 'attribute'라는 데이터 노출 및 데이터 교환을 위한 클라이언트, 서버 프로토콜 정의
+- GATT (Generic Attribute Profile): ATT를 이용하는 sub-procedure를 정의하는 프레임워크, ATT 영역에서 읽어 들인 서비스의 기능 수행
 
 - GAP (Generic Access Protocl): 장치 간의 paring과 bonding 사용을 통해 장치 간 인터페이스 역할
 
-- GATT (Generic Attribute Profile): ATT를 이용하는 sub-procedure를 정의하는 프레임워크, ATT 영역에서 읽어 들인 서비스의 기능 수행
+- ATT (Attribute Protocol): 다른 기기로 'attribute'라는 데이터 노출 및 데이터 교환을 위한 클라이언트, 서버 프로토콜 정의
+
+- SM (Security Manager): paring and key distributuiion 방법 정의 및 인증과 보안에 사용
+
+- L2CAP (Logical Link Control and Adaptation Protocol): 데이터 encapulation service 제공
+
+
+- HCI (Host Controller Interface): Host 영역과 Controller 영역의 Interface 역할
+
+- LL (Link Layer): 5가지의 RF 상태 제어 (standby, advertising, scanning, initiating, connected) 및 디바이스의 Role 정의
+
+- Physical: 2.4 GHz ISM 대역에서 1 Mbps의 속도로 패킷 송수신 역할 (실제 Bluetooth Analog Signal과 통신할 수 있는 회로가 구성되어 있음)
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
 
  
