@@ -30,7 +30,7 @@ BLE, Bluetooth Low Energy 블루투스 4.0을 사용하는 저전력 디바이�
 
 - ATT (Attribute Protocol): 다른 기기로 'attribute'라는 데이터 노출 및 데이터 교환을 위한 클라이언트, 서버 프로토콜 정의
 
-- SM (Security Manager): paring and key distributuiion 방법 정의 및 인증과 보안에 사용
+- SMP (Security Manager Protocol): paring and key distributuiion 방법 정의 및 인증과 보안에 사용
 
 - L2CAP (Logical Link Control and Adaptation Protocol): 데이터 encapulation service 제공
 
