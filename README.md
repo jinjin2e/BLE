@@ -19,7 +19,7 @@ BLE, Bluetooth Low Energy 블루투스 4.0을 사용하는 저전력 디바이�
 > ```   
 > ![image](https://github.com/jinjin2e/BLE/assets/93366905/3c8892d4-79ac-4272-980d-dcaa302761a6)
 
-
+## 스택 
 ![images_zhemdrawer_post_d2802fee-27b3-4abb-9003-47365ed4052b_BLE_Layer_model](https://github.com/jinjin2e/BLE/assets/93366905/f174f189-e532-4321-b6a4-758e93ca6afd)
 - Physical: 2.4 GHz ISM 대역에서 1 Mbps의 속도로 패킷 송수신 역할 (실제 Bluetooth Analog Signal과 통신할 수 있는 회로가 구성되어 있음)
 
