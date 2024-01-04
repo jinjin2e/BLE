@@ -34,8 +34,6 @@ BLE, Bluetooth Low Energy 블루투스 4.0을 사용하는 저전력 디바이�
 
 - L2CAP (Logical Link Control and Adaptation Protocol): 데이터 encapulation service 제공   
 
-
-
 - HCI (Host Controller Interface): Host 영역과 Controller 영역의 Interface 역할
 
 - LL (Link Layer): 5가지의 RF 상태 제어 (standby, advertising, scanning, initiating, connected) 및 디바이스의 Role 정의
