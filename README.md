@@ -32,7 +32,8 @@ BLE, Bluetooth Low Energy 블루투스 4.0을 사용하는 저전력 디바이�
 
 - SMP (Security Manager Protocol): paring and key distributuiion 방법 정의 및 인증과 보안에 사용
 
-- L2CAP (Logical Link Control and Adaptation Protocol): 데이터 encapulation service 제공
+- L2CAP (Logical Link Control and Adaptation Protocol): 데이터 encapulation service 제공   
+
 
 
 - HCI (Host Controller Interface): Host 영역과 Controller 영역의 Interface 역할
