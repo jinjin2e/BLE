@@ -57,8 +57,18 @@ BLE, Bluetooth Low Energy 블루투스 4.0을 사용하는 저전력 디바이�
 > 가장 중요한 건 디바이스의 Role을 정의하고 이에 따라 변경되는 State를 가지고 있다  
 > Connection 전의 역할 (advertiser, scanner)과  
 > Connection 후의 역할인 (Master, Slave)로 분류된다  
+***
+## Security Manager Protocol 
+***
+## GAP (Generic Access Profile)
+***
+## GATT (General Attribute Profile)
+***
+## 
+자료 참고 
 
-
+https://machine-woong.tistory.com/607
+https://velog.io/@zhemdrawer/BLE-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0
 
  
 
