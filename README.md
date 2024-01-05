@@ -47,8 +47,16 @@ BLE, Bluetooth Low Energy 블루투스 4.0을 사용하는 저전력 디바이�
 - 3개의 (37, 38, 39) Advertising 채널과 나머지 37개의 Data 채널을 사용
 
 - 같은 ISM Band를 사용하는 wifi와의 간섭을 피하기 위해 주파수 호핑 방식 사용
+***
+##Link Layer
+하드웨어와 소프트웨어 조합으로 구성되어 있으며,  
+하드웨어 단에서는 Preamble, Access Address, CRC, AES 등이 처리되고  
+소프트웨어 단에서는 디바이스의 연결 상태를 관리한다.  
 
 
+가장 중요한 건 디바이스의 Role을 정의하고 이에 따라 변경되는 State를 가지고 있다  
+Connection 전의 역할 (advertiser, scanner)과  
+Connection 후의 역할인 (Master, Slave)로 분류된다  
 
 
 
