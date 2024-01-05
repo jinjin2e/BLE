@@ -67,7 +67,7 @@ BLE, Bluetooth Low Energy 블루투스 4.0을 사용하는 저전력 디바이�
 ## 
 자료 참고 
 
-https://machine-woong.tistory.com/607
+https://machine-woong.tistory.com/607  
 https://velog.io/@zhemdrawer/BLE-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0
 
  
